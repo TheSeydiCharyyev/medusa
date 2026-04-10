@@ -1,5 +1,66 @@
 # Change Log
 
+## 2.13.7
+
+### Patch Changes
+
+- [#14650](https://github.com/medusajs/medusa/pull/14650) [`965adfe2fc15a024270ac384f819479e8b274e10`](https://github.com/medusajs/medusa/commit/965adfe2fc15a024270ac384f819479e8b274e10) Thanks [@adrien2p](https://github.com/adrien2p)! - Feat(view configuration): Generic introspection and generation
+
+- Updated dependencies [[`3ae4162e0f027c4b7035028e183c07c9936fd0c1`](https://github.com/medusajs/medusa/commit/3ae4162e0f027c4b7035028e183c07c9936fd0c1), [`d3a4ec0123d0bfb6910ff38d6d74ece00083e819`](https://github.com/medusajs/medusa/commit/d3a4ec0123d0bfb6910ff38d6d74ece00083e819), [`e489aebaf301ea2eb2834449af65bc3da7f7465a`](https://github.com/medusajs/medusa/commit/e489aebaf301ea2eb2834449af65bc3da7f7465a), [`965adfe2fc15a024270ac384f819479e8b274e10`](https://github.com/medusajs/medusa/commit/965adfe2fc15a024270ac384f819479e8b274e10)]:
+  - @medusajs/core-flows@2.13.7
+  - @medusajs/workflow-engine-inmemory@2.13.7
+  - @medusajs/workflow-engine-redis@2.13.7
+  - @medusajs/stock-location@2.13.7
+  - @medusajs/fulfillment@2.13.7
+  - @medusajs/inventory@2.13.7
+  - @medusajs/product@2.13.7
+  - @medusajs/order@2.13.7
+  - @medusajs/cart@2.13.7
+  - @medusajs/settings@2.13.7
+  - @medusajs/admin-bundler@2.13.7
+  - @medusajs/framework@2.13.7
+  - @medusajs/event-bus-redis@2.13.7
+  - @medusajs/draft-order@2.13.7
+  - @medusajs/analytics@2.13.7
+  - @medusajs/api-key@2.13.7
+  - @medusajs/auth@2.13.7
+  - @medusajs/caching@2.13.7
+  - @medusajs/currency@2.13.7
+  - @medusajs/customer@2.13.7
+  - @medusajs/file@2.13.7
+  - @medusajs/index@2.13.7
+  - @medusajs/link-modules@2.13.7
+  - @medusajs/locking@2.13.7
+  - @medusajs/notification@2.13.7
+  - @medusajs/payment@2.13.7
+  - @medusajs/pricing@2.13.7
+  - @medusajs/promotion@2.13.7
+  - @medusajs/rbac@2.13.7
+  - @medusajs/region@2.13.7
+  - @medusajs/sales-channel@2.13.7
+  - @medusajs/store@2.13.7
+  - @medusajs/tax@2.13.7
+  - @medusajs/translation@2.13.7
+  - @medusajs/user@2.13.7
+  - @medusajs/cache-inmemory@2.13.7
+  - @medusajs/cache-redis@2.13.7
+  - @medusajs/event-bus-local@2.13.7
+  - @medusajs/analytics-local@2.13.7
+  - @medusajs/analytics-posthog@2.13.7
+  - @medusajs/auth-emailpass@2.13.7
+  - @medusajs/auth-github@2.13.7
+  - @medusajs/auth-google@2.13.7
+  - @medusajs/caching-redis@2.13.7
+  - @medusajs/file-local@2.13.7
+  - @medusajs/file-s3@2.13.7
+  - @medusajs/fulfillment-manual@2.13.7
+  - @medusajs/locking-postgres@2.13.7
+  - @medusajs/locking-redis@2.13.7
+  - @medusajs/notification-local@2.13.7
+  - @medusajs/notification-sendgrid@2.13.7
+  - @medusajs/payment-stripe@2.13.7
+  - @medusajs/telemetry@2.13.7
+
 ## 2.13.6
 
 ### Patch Changes

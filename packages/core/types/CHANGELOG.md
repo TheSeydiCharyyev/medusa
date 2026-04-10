@@ -1,5 +1,11 @@
 # @medusajs/types
 
+## 2.13.7
+
+### Patch Changes
+
+- [#14650](https://github.com/medusajs/medusa/pull/14650) [`965adfe2fc15a024270ac384f819479e8b274e10`](https://github.com/medusajs/medusa/commit/965adfe2fc15a024270ac384f819479e8b274e10) Thanks [@adrien2p](https://github.com/adrien2p)! - Feat(view configuration): Generic introspection and generation
+
 ## 2.13.6
 
 ### Patch Changes

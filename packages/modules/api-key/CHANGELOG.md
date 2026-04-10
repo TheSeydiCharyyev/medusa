@@ -1,5 +1,12 @@
 # @medusajs/api-key
 
+## 2.13.7
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.13.7
+
 ## 2.13.6
 
 ### Patch Changes
